@@ -1,0 +1,11 @@
+scipy
+pandas
+networkx
+numpy
+gurobipy
+ipython
+ortools
+qpth
+scikit_learn
+torch
+tqdm
