@@ -1,0 +1,2 @@
+Download data from [here](https://github.com/JayMan91/aaai_predit_then_optimize/raw/master/Data.npz) for knapsack 
+Download data from [here](https://github.com/JayMan91/aaai_predit_then_optimize/raw/master/prices2013.dat) for energy scheduling
