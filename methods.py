@@ -3,7 +3,7 @@ import torch
 import time
 import numpy as np
 from torch import nn, optim
-from nce import NCE_Loss, SPO_NCE_Loss, var2param
+from nce import NCE_Loss,var2param# SPO_NCE_Loss, var2param
 from sklearn.metrics import roc_auc_score, mean_squared_error 
 from torch.utils.data import Dataset, DataLoader
 from Interior.ip_model_whole import IPOfunc
